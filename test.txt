@@ -1,8 +1,0 @@
-hello world
-<<<<<<< HEAD
-hello git
-hello jsjsj
-klsjdklasd
-=======
-yangkailun pull request
->>>>>>> f4eefb2d3535126d39df499ed070aed7fdb4a251
